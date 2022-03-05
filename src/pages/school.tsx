@@ -16,10 +16,6 @@ loader.load( 't1.glb', function ( glb ) {
 }, undefined, function ( error: any ) {
 	console.error( error );
 } );
-
-
-
-
     /**
      * 创建网格模型
      */
