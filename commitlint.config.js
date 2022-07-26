@@ -20,10 +20,7 @@ module.exports = {
           'build' // 打包
         ]
       ],
-      'body-case': [2,
-    'always',
-['yiran']],
-      
+      'subject-case': [0],
     }
   }
   
