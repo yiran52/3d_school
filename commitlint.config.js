@@ -21,7 +21,7 @@ module.exports = {
         ]
       ],
       // subject 大小写不做校验
-      'scope-case': [
+      'subject': [
         2,
         'always',
         [
