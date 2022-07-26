@@ -21,13 +21,14 @@ module.exports = {
         ]
       ],
       // subject 大小写不做校验
-      'subject-case': [
+      'scope-case': [
         2,
-        'always'
-        ,[
+        'always',
+        [
         'jire',
         'yiran'
-      ]]
+        ]
+    ]
     }
   }
   
