@@ -7,7 +7,7 @@ module.exports = {
       'type-enum': [
         2,
         'always',
-        [
+        ['yiran',
           'feat', // 新功能 feature
           'fix', // 修复 bug
           'docs', // 文档注释
