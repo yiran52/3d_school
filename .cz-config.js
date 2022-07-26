@@ -21,7 +21,7 @@ module.exports = {
       customScope: '请输入修改范围(可选):',
       subject: '[jira-xxx/workitem]:',
       body: '请输入详细描述(可选):',
-      confirmCommit: '确认使用以上信息提交？(y/n/e/h)'
+      confirmCommit: '确认使用以上信息提交？(y/n)'
     },
     // 跳过问题
     skipQuestions: ['footer'],
