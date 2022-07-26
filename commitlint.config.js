@@ -21,7 +21,7 @@ module.exports = {
         ]
       ],
       // subject 大小写不做校验
-      'scope-empty': [
+      'subject-empty': [
         2,
         'always',
         [
