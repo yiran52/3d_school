@@ -20,7 +20,8 @@
     "react-scripts": "5.0.0",
     "three": "^0.138.2",
     "typescript": "^4.6.2",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "cz-customizable": "^6.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -53,8 +54,7 @@
   },
   "config": {
     "commitizen": {
-       "path": "node_modules/cz-customizable"
-     }
-   }
-  
+      "path": "node_modules/cz-customizable"
+    }
+  }
 }
