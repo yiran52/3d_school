@@ -20,15 +20,10 @@ module.exports = {
           'build' // 打包
         ]
       ],
-      // subject 大小写不做校验
-      'subject-empty': [
-        2,
-        'always',
-        [
-        'jire',
-        'yiran'
-        ]
-    ]
+      'subject-case': [2,
+    'always',
+['yiran']],
+      
     }
   }
   
