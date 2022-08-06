@@ -4,7 +4,7 @@ function App() {
     return (
        <>
        <Home/>
-       <h1>22r333</h1>
+       <h1>22r3d33</h1>
        </>
     )}
 export default App
