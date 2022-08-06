@@ -9,11 +9,8 @@ function App() {
        <span>555</span>
        <h1>22r3d33</h1>
        <h1>22r3d3344444</h1>
-<<<<<<< HEAD
        <h1>88</h1>
-=======
-       <h1>77</h1>
->>>>>>> dc4d96b (feat(custom): 77)
+       <h1>677</h1>
        </>
     )}
 export default App
