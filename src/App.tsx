@@ -10,7 +10,11 @@ function App() {
        <h1>22r3d33</h1>
        <h1>22r3d3344444</h1>
        <h1>88</h1>
+<<<<<<< HEAD
        <h1>67</h1>
+=======
+       <h1>6779</h1>
+>>>>>>> 60f8813 (feat(custom): push1)
        </>
     )}
 export default App
