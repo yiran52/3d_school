@@ -12,6 +12,7 @@ function App() {
        <h1>88</h1>
        <h1>67</h1>
        77
+       <h1>6779</h1>
        </>
     )}
 export default App
